@@ -1,5 +1,7 @@
 forced_alignment_tutorial.ipynb
 wav2vec2-large-english-phoneme-v2/pytorch_model.bin
+APR_2.ipynb
+APR.ipynb
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
