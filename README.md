@@ -17,3 +17,5 @@ Method 3: Montreal Forced Alignment (MFA)
 Note that MFA requires its own Conda environment -- please refer to the notebook for further details.
 
 Methods 1 and 2 are based on the CTC algorithm, Method 3 is not.
+
+To use method 2, you must first download https://huggingface.co/speech31/wav2vec2-large-english-phoneme-v2/blob/main/pytorch_model.bin
